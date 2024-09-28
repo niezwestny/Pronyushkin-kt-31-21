@@ -1,0 +1,3 @@
+2024-09-28 09:13:12.6790||ERROR|Proekt_Prakt_Lab.Controllers.WeatherForecastController|Method was called |url: http://localhost/WeatherForecast|action: Get
+2024-09-28 09:14:10.5188||ERROR|Proekt_Prakt_Lab.Controllers.WeatherForecastController|Method was called |url: http://localhost/WeatherForecast|action: Get
+2024-09-28 09:19:12.8122||ERROR|Proekt_Prakt_Lab.Controllers.WeatherForecastController|New method was called |url: http://localhost/WeatherForecast|action: AddNewSummary
