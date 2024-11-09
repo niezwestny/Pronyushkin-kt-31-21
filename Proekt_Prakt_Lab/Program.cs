@@ -1,6 +1,8 @@
 
+using Microsoft.EntityFrameworkCore;
 using NLog;
 using NLog.Web;
+using Proekt_Prakt_Lab.Database;
 var builder = WebApplication.CreateBuilder(args);
 var logger = LogManager.Setup().LoadConfigurationFromAppSettings().GetCurrentClassLogger();
 
@@ -15,6 +17,9 @@ try
     builder.Services.AddEndpointsApiExplorer();
     builder.Services.AddSwaggerGen();
 
+    builder.Services.AddDbContext<TeacherDbContext>(options =>
+    options.UseSqlServer(builder.Configuration["ConnectionStrings:DefaultConnection"]));
+    
     
 
     var app = builder.Build();

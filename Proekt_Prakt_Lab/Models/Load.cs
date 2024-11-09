@@ -2,7 +2,7 @@
 {
     public class Load
     {
-        public int Load_Id {  get; set; }
+        public int Load_ID {  get; set; }
         public int Hours {get;set; }
     }
 }
