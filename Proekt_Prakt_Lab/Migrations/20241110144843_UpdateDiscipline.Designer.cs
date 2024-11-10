@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Proekt_Prakt_Lab.Database;
 
@@ -11,9 +12,11 @@ using Proekt_Prakt_Lab.Database;
 namespace Proekt_Prakt_Lab.Migrations
 {
     [DbContext(typeof(TeacherDbContext))]
-    partial class TeacherDbContextModelSnapshot : ModelSnapshot
+    [Migration("20241110144843_UpdateDiscipline")]
+    partial class UpdateDiscipline
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -83,9 +86,9 @@ namespace Proekt_Prakt_Lab.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Discipline_ID"));
 
-                    b.Property<int>("Discipline_Load_Hours")
+                    b.Property<int?>("Discipline_Load_Id")
                         .HasColumnType("int")
-                        .HasColumnName("discipline_load_hours");
+                        .HasColumnName("discipline_load_id");
 
                     b.Property<string>("Discipline_Name")
                         .IsRequired()
@@ -100,11 +103,17 @@ namespace Proekt_Prakt_Lab.Migrations
                     b.HasKey("Discipline_ID")
                         .HasName("pk_cd_discipline_discipline_id");
 
+                    b.HasIndex("Discipline_Load_Id")
+                        .IsUnique()
+                        .HasFilter("[discipline_load_id] IS NOT NULL");
+
                     b.HasIndex("Discipline_Teacher_ID")
                         .IsUnique()
                         .HasFilter("[c_discipline_teacher_id] IS NOT NULL");
 
                     b.HasIndex(new[] { "Discipline_Teacher_ID" }, "idx_cd_discipline_fk_discipline_teacher_id");
+
+                    b.HasIndex(new[] { "Discipline_Load_Id" }, "idx_cd_discipline_fk_load_id");
 
                     b.ToTable("cd_discipline", (string)null);
                 });
@@ -225,11 +234,19 @@ namespace Proekt_Prakt_Lab.Migrations
 
             modelBuilder.Entity("Proekt_Prakt_Lab.Models.Discipline", b =>
                 {
+                    b.HasOne("Proekt_Prakt_Lab.Models.Load", "Discipline_Load_Hours")
+                        .WithOne()
+                        .HasForeignKey("Proekt_Prakt_Lab.Models.Discipline", "Discipline_Load_Id")
+                        .OnDelete(DeleteBehavior.SetNull)
+                        .HasConstraintName("fk_load_id");
+
                     b.HasOne("Proekt_Prakt_Lab.Models.Teacher", "Discipline_Teacher_FIO")
                         .WithOne()
                         .HasForeignKey("Proekt_Prakt_Lab.Models.Discipline", "Discipline_Teacher_ID")
                         .OnDelete(DeleteBehavior.SetNull)
                         .HasConstraintName("fk_discipline_teacher_id");
+
+                    b.Navigation("Discipline_Load_Hours");
 
                     b.Navigation("Discipline_Teacher_FIO");
                 });

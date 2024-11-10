@@ -3,6 +3,8 @@ using Microsoft.EntityFrameworkCore;
 using NLog;
 using NLog.Web;
 using Proekt_Prakt_Lab.Database;
+using static Proekt_Prakt_Lab.ServicesExtensions.ServiceExtensions;
+
 var builder = WebApplication.CreateBuilder(args);
 var logger = LogManager.Setup().LoadConfigurationFromAppSettings().GetCurrentClassLogger();
 
@@ -19,8 +21,8 @@ try
 
     builder.Services.AddDbContext<TeacherDbContext>(options =>
     options.UseSqlServer(builder.Configuration["ConnectionStrings:DefaultConnection"]));
-    
-    
+
+    builder.Services.AddServices();
 
     var app = builder.Build();
 

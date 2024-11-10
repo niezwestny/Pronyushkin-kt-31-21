@@ -1,0 +1,63 @@
+﻿@model Proekt_Prakt_Lab.Models.Teacher
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Teacher</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Surname" class="control-label"></label>
+                <input asp-for="Surname" class="form-control" />
+                <span asp-validation-for="Surname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Second_Name" class="control-label"></label>
+                <input asp-for="Second_Name" class="form-control" />
+                <span asp-validation-for="Second_Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cafedra_ID" class="control-label"></label>
+                <select asp-for="Cafedra_ID" class ="form-control" asp-items="ViewBag.Cafedra_ID"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Position_ID" class="control-label"></label>
+                <select asp-for="Position_ID" class ="form-control" asp-items="ViewBag.Position_ID"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Degree_ID" class="control-label"></label>
+                <select asp-for="Degree_ID" class ="form-control" asp-items="ViewBag.Degree_ID"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Load_ID" class="control-label"></label>
+                <select asp-for="Load_ID" class ="form-control" asp-items="ViewBag.Load_ID"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Discipline_ID" class="control-label"></label>
+                <select asp-for="Discipline_ID" class ="form-control" asp-items="ViewBag.Discipline_ID"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

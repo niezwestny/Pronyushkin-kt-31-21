@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Proekt_Prakt_Lab.Database;
 
@@ -11,9 +12,11 @@ using Proekt_Prakt_Lab.Database;
 namespace Proekt_Prakt_Lab.Migrations
 {
     [DbContext(typeof(TeacherDbContext))]
-    partial class TeacherDbContextModelSnapshot : ModelSnapshot
+    [Migration("20241110153937_UpdateDiscipline_fix")]
+    partial class UpdateDiscipline_fix
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

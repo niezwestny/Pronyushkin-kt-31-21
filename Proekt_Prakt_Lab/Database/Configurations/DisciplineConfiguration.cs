@@ -19,15 +19,18 @@ namespace Proekt_Prakt_Lab.Database.Configurations
                 .HasColumnName("c_discipline_name")
                 .HasColumnType(ColumnType.String)
                 .HasMaxLength(100);
-            builder.Property(p => p.Discipline_Load_Id)
-                .HasColumnName("discipline_load_id")
+            builder.Property(p => p.Discipline_Load_Hours)
+                .HasColumnName("discipline_load_hours")
                 .HasColumnType(ColumnType.Int);
-            builder.HasOne(p => p.Discipline_Load_Hours)
+            builder.Property(p => p.Discipline_Teacher_ID)
+                .HasColumnName("c_discipline_teacher_id")
+                .HasColumnType(ColumnType.Int);
+            builder.HasOne(p=> p.Discipline_Teacher_FIO)
                 .WithOne()
-                .HasForeignKey<Discipline>(p => p.Discipline_Load_Id)
-                .HasConstraintName("fk_load_id")
+                .HasForeignKey<Discipline>(p=>p.Discipline_Teacher_ID)
+                .HasConstraintName("fk_discipline_teacher_id")
                 .OnDelete(DeleteBehavior.SetNull);
-            builder.HasIndex(p => p.Discipline_Load_Id, $"idx_{TableName}_fk_load_id");
+            builder.HasIndex(p => p.Discipline_Teacher_ID, $"idx_{TableName}_fk_discipline_teacher_id");
             builder.ToTable(TableName);
         }
     }

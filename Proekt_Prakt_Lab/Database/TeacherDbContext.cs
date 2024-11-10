@@ -8,9 +8,9 @@ namespace Proekt_Prakt_Lab.Database
         public DbSet<Teacher> Teachers { get; set; }
         DbSet<Degree> Degrees { get; set; }
         DbSet<Cafedra> Cafedras{ get; set; }
-        DbSet<Discipline> Disciplines { get; set; }
+        public DbSet<Discipline> Disciplines { get; set; }
         DbSet<Position> Positions { get; set; }
-        DbSet<Load> Loads { get; set; }
+        public DbSet<Load> Loads { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfiguration(new TeacherConfiguration());
