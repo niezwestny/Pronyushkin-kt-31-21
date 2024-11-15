@@ -40,12 +40,9 @@ namespace Proekt_Prakt_Lab.Controllers
             
         }
         [HttpPut("EditLoad")]
-        public async Task<IActionResult> UpdateLoadAsync(int id, Load load, CancellationToken cancellationToken = default)
+        public async Task<IActionResult> UpdateLoadAsync(Load load, CancellationToken cancellationToken = default)
         {
-            if (id != load.Load_ID)
-            {
-                return BadRequest();
-            }
+
             await _LoadService.UpdateLoadAsync(load, cancellationToken);
             return NoContent();
         }

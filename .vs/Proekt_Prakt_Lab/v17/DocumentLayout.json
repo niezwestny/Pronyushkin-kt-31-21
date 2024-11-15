@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|c:\\users\\lenovo\\source\\repos\\pronyushkin-kt-31-21\\proekt_prakt_lab\\controllers\\disciplinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|solutionrelative:proekt_prakt_lab\\controllers\\disciplinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|c:\\users\\lenovo\\source\\repos\\pronyushkin-kt-31-21\\proekt_prakt_lab\\interfaces\\loadinterfaces\\iloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|solutionrelative:proekt_prakt_lab\\interfaces\\loadinterfaces\\iloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|c:\\users\\lenovo\\source\\repos\\pronyushkin-kt-31-21\\proekt_prakt_lab\\interfaces\\disciplineinterfaces\\idisciplineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|solutionrelative:proekt_prakt_lab\\interfaces\\disciplineinterfaces\\idisciplineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|c:\\users\\lenovo\\source\\repos\\pronyushkin-kt-31-21\\proekt_prakt_lab\\models\\load.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|solutionrelative:proekt_prakt_lab\\models\\load.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|c:\\users\\lenovo\\source\\repos\\pronyushkin-kt-31-21\\proekt_prakt_lab\\controllers\\loadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|solutionrelative:proekt_prakt_lab\\controllers\\loadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|c:\\users\\lenovo\\source\\repos\\pronyushkin-kt-31-21\\proekt_prakt_lab\\interfaces\\loadinterfaces\\iloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|solutionrelative:proekt_prakt_lab\\interfaces\\loadinterfaces\\iloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|c:\\users\\lenovo\\source\\repos\\pronyushkin-kt-31-21\\proekt_prakt_lab\\database\\configurations\\loadconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|solutionrelative:proekt_prakt_lab\\database\\configurations\\loadconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|c:\\users\\lenovo\\source\\repos\\pronyushkin-kt-31-21\\proekt_prakt_lab\\models\\cafedra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|solutionrelative:proekt_prakt_lab\\models\\cafedra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|c:\\users\\lenovo\\source\\repos\\pronyushkin-kt-31-21\\proekt_prakt_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|solutionrelative:proekt_prakt_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|c:\\users\\lenovo\\source\\repos\\pronyushkin-kt-31-21\\proekt_prakt_lab\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|solutionrelative:proekt_prakt_lab\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|c:\\users\\lenovo\\source\\repos\\pronyushkin-kt-31-21\\proekt_prakt_lab\\controllers\\disciplinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|solutionrelative:proekt_prakt_lab\\controllers\\disciplinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|c:\\users\\lenovo\\source\\repos\\pronyushkin-kt-31-21\\proekt_prakt_lab\\interfaces\\disciplineinterfaces\\idisciplineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|solutionrelative:proekt_prakt_lab\\interfaces\\disciplineinterfaces\\idisciplineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|c:\\users\\lenovo\\source\\repos\\pronyushkin-kt-31-21\\proekt_prakt_lab\\database\\teacherdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|c:\\users\\lenovo\\source\\repos\\pronyushkin-kt-31-21\\proekt_prakt_lab\\filters\\disciplineloadfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|solutionrelative:proekt_prakt_lab\\filters\\disciplineloadfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|c:\\users\\lenovo\\source\\repos\\pronyushkin-kt-31-21\\proekt_prakt_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|solutionrelative:proekt_prakt_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|c:\\users\\lenovo\\source\\repos\\pronyushkin-kt-31-21\\proekt_prakt_lab\\serviceextensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,20 +83,12 @@
       "RelativeMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|solutionrelative:proekt_prakt_lab\\database\\configurations\\teacherconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|c:\\users\\lenovo\\source\\repos\\pronyushkin-kt-31-21\\proekt_prakt_lab\\models\\cafedra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|solutionrelative:proekt_prakt_lab\\models\\cafedra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|c:\\users\\lenovo\\source\\repos\\pronyushkin-kt-31-21\\proekt_prakt_lab\\database\\configurations\\degreeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|solutionrelative:proekt_prakt_lab\\database\\configurations\\degreeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|c:\\users\\lenovo\\source\\repos\\pronyushkin-kt-31-21\\proekt_prakt_lab\\database\\configurations\\cafedraconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|solutionrelative:proekt_prakt_lab\\database\\configurations\\cafedraconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|c:\\users\\lenovo\\source\\repos\\pronyushkin-kt-31-21\\proekt_prakt_lab\\database\\configurations\\loadconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B574823-608B-4EE9-80F3-48EADF03D3F5}|Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj|solutionrelative:proekt_prakt_lab\\database\\configurations\\loadconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Migrations\\20241109121335_CreateDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -138,7 +146,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -158,20 +166,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DisciplinesController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Controllers\\DisciplinesController.cs",
-              "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Controllers\\DisciplinesController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Controllers\\DisciplinesController.cs",
-              "RelativeToolTip": "Proekt_Prakt_Lab\\Controllers\\DisciplinesController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAADwvyIAAAABAAAA",
+              "DocumentIndex": 1,
+              "Title": "Load.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Models\\Load.cs",
+              "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Models\\Load.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Models\\Load.cs",
+              "RelativeToolTip": "Proekt_Prakt_Lab\\Models\\Load.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T16:42:01.719Z",
+              "WhenOpened": "2024-11-15T14:07:42.843Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "IDisciplineService.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Interfaces\\DisciplineInterfaces\\IDisciplineService.cs",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Interfaces\\DisciplineInterfaces\\IDisciplineService.cs",
@@ -179,12 +187,11 @@
               "RelativeToolTip": "Proekt_Prakt_Lab\\Interfaces\\DisciplineInterfaces\\IDisciplineService.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAACoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T13:44:03.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T13:44:03.687Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "DisciplineTeacherFilter.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Filters\\DisciplineTeacherFilter.cs",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Filters\\DisciplineTeacherFilter.cs",
@@ -192,8 +199,7 @@
               "RelativeToolTip": "Proekt_Prakt_Lab\\Filters\\DisciplineTeacherFilter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T14:01:50.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T14:01:50.762Z"
             },
             {
               "$type": "Document",
@@ -203,27 +209,90 @@
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Controllers\\LoadsController.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Controllers\\LoadsController.cs",
               "RelativeToolTip": "Proekt_Prakt_Lab\\Controllers\\LoadsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAJAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwC4AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T12:54:29.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ILoadService.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Interfaces\\LoadInterfaces\\ILoadService.cs",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Interfaces\\LoadInterfaces\\ILoadService.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Interfaces\\LoadInterfaces\\ILoadService.cs",
               "RelativeToolTip": "Proekt_Prakt_Lab\\Interfaces\\LoadInterfaces\\ILoadService.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCYAAAAwAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswCUAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T13:08:02.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cafedra.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Models\\Cafedra.cs",
+              "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Models\\Cafedra.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Models\\Cafedra.cs",
+              "RelativeToolTip": "Proekt_Prakt_Lab\\Models\\Cafedra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T09:53:09.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Program.cs",
+              "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Program.cs",
+              "RelativeToolTip": "Proekt_Prakt_Lab\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T09:04:07.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoadConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Database\\Configurations\\LoadConfiguration.cs",
+              "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Database\\Configurations\\LoadConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Database\\Configurations\\LoadConfiguration.cs",
+              "RelativeToolTip": "Proekt_Prakt_Lab\\Database\\Configurations\\LoadConfiguration.cs",
+              "ViewState": "AQIAAAEAAACAZ2ZmZmYUwBMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T09:08:24.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DisciplinesController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Controllers\\DisciplinesController.cs",
+              "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Controllers\\DisciplinesController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Controllers\\DisciplinesController.cs",
+              "RelativeToolTip": "Proekt_Prakt_Lab\\Controllers\\DisciplinesController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvxIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:42:01.719Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "Proekt_Prakt_Lab\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:55:54.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "DisciplineLoadFilter.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Filters\\DisciplineLoadFilter.cs",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Filters\\DisciplineLoadFilter.cs",
@@ -231,25 +300,11 @@
               "RelativeToolTip": "Proekt_Prakt_Lab\\Filters\\DisciplineLoadFilter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T14:02:20.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T14:02:20.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Program.cs",
-              "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Program.cs",
-              "RelativeToolTip": "Proekt_Prakt_Lab\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T09:04:07.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "20241110153937_UpdateDiscipline_fix.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Migrations\\20241110153937_UpdateDiscipline_fix.cs",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Migrations\\20241110153937_UpdateDiscipline_fix.cs",
@@ -257,12 +312,11 @@
               "RelativeToolTip": "Proekt_Prakt_Lab\\Migrations\\20241110153937_UpdateDiscipline_fix.cs",
               "ViewState": "AQIAADkAAAAAAAAAAAAowEcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T15:39:38.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T15:39:38.293Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "TeacherDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Database\\TeacherDbContext.cs",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Database\\TeacherDbContext.cs",
@@ -270,12 +324,11 @@
               "RelativeToolTip": "Proekt_Prakt_Lab\\Database\\TeacherDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T13:26:22.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T13:26:22.254Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "20241109122104_CreateDatabase.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Migrations\\20241109122104_CreateDatabase.cs",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Migrations\\20241109122104_CreateDatabase.cs",
@@ -283,12 +336,11 @@
               "RelativeToolTip": "Proekt_Prakt_Lab\\Migrations\\20241109122104_CreateDatabase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T12:21:04.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T12:21:04.954Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "ServiceExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\ServiceExtensions\\ServiceExtensions.cs",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\ServiceExtensions\\ServiceExtensions.cs",
@@ -296,12 +348,11 @@
               "RelativeToolTip": "Proekt_Prakt_Lab\\ServiceExtensions\\ServiceExtensions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T13:05:40.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T13:05:40.54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "DisciplineConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Database\\Configurations\\DisciplineConfiguration.cs",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Database\\Configurations\\DisciplineConfiguration.cs",
@@ -309,12 +360,11 @@
               "RelativeToolTip": "Proekt_Prakt_Lab\\Database\\Configurations\\DisciplineConfiguration.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAkwBoAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T08:47:52.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T08:47:52.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Discipline.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Models\\Discipline.cs",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Models\\Discipline.cs",
@@ -322,12 +372,11 @@
               "RelativeToolTip": "Proekt_Prakt_Lab\\Models\\Discipline.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T09:50:24.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T09:50:24.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Teacher.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Models\\Teacher.cs",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Models\\Teacher.cs",
@@ -335,12 +384,11 @@
               "RelativeToolTip": "Proekt_Prakt_Lab\\Models\\Teacher.cs",
               "ViewState": "AQIAAAYAAADg/////38wwA4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T09:50:03.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T09:50:03.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "20241110144843_UpdateDiscipline.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Migrations\\20241110144843_UpdateDiscipline.cs",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Migrations\\20241110144843_UpdateDiscipline.cs",
@@ -352,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Proekt_Prakt_Lab.csproj",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Proekt_Prakt_Lab.csproj",
@@ -364,19 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Cafedra.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Models\\Cafedra.cs",
-              "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Models\\Cafedra.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Models\\Cafedra.cs",
-              "RelativeToolTip": "Proekt_Prakt_Lab\\Models\\Cafedra.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T09:53:09.289Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "TeacherConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Database\\Configurations\\TeacherConfiguration.cs",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Database\\Configurations\\TeacherConfiguration.cs",
@@ -388,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "DegreeConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Database\\Configurations\\DegreeConfiguration.cs",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Database\\Configurations\\DegreeConfiguration.cs",
@@ -400,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "CafedraConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Database\\Configurations\\CafedraConfiguration.cs",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Database\\Configurations\\CafedraConfiguration.cs",
@@ -412,19 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "LoadConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Database\\Configurations\\LoadConfiguration.cs",
-              "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Database\\Configurations\\LoadConfiguration.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Database\\Configurations\\LoadConfiguration.cs",
-              "RelativeToolTip": "Proekt_Prakt_Lab\\Database\\Configurations\\LoadConfiguration.cs",
-              "ViewState": "AQIAAAkAAABwZmZmZmY4wBMAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T09:08:24.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "20241109121335_CreateDatabase.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Migrations\\20241109121335_CreateDatabase.cs",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Migrations\\20241109121335_CreateDatabase.cs",
@@ -436,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "20241109120416_CreateDatabase.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Migrations\\20241109120416_CreateDatabase.cs",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Migrations\\20241109120416_CreateDatabase.cs",
@@ -448,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "PositionConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Database\\Configurations\\PositionConfiguration.cs",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Database\\Configurations\\PositionConfiguration.cs",
@@ -460,7 +484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "20241109114151_fix.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Migrations\\20241109114151_fix.cs",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Migrations\\20241109114151_fix.cs",
@@ -472,7 +496,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "20241109113543_CreateDatabase.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Migrations\\20241109113543_CreateDatabase.cs",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Migrations\\20241109113543_CreateDatabase.cs",
@@ -484,7 +508,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "20241109113123_CreateDatabase.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Migrations\\20241109113123_CreateDatabase.cs",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Migrations\\20241109113123_CreateDatabase.cs",
@@ -496,7 +520,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "20241109113020_fix.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Migrations\\20241109113020_fix.cs",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Migrations\\20241109113020_fix.cs",
@@ -508,7 +532,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "20241109112635_CreateDatabase.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Migrations\\20241109112635_CreateDatabase.cs",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Migrations\\20241109112635_CreateDatabase.cs",
@@ -520,7 +544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "20241109112222_CreateDatabase.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Migrations\\20241109112222_CreateDatabase.cs",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Migrations\\20241109112222_CreateDatabase.cs",
@@ -532,7 +556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "20241109095135_MadeFieldsNullable.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Migrations\\20241109095135_MadeFieldsNullable.cs",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Migrations\\20241109095135_MadeFieldsNullable.cs",
@@ -544,7 +568,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "20241109094535_CreateDatebase.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Pronyushkin-kt-31-21\\Proekt_Prakt_Lab\\Migrations\\20241109094535_CreateDatebase.cs",
               "RelativeDocumentMoniker": "Proekt_Prakt_Lab\\Migrations\\20241109094535_CreateDatebase.cs",

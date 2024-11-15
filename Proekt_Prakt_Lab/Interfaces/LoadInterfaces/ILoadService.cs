@@ -35,7 +35,7 @@ namespace Proekt_Prakt_Lab.Interfaces.LoadInterfaces
         }
         public async Task UpdateLoadAsync(Load load, CancellationToken cancellationToken = default)
         {
-            _dbContext.Loads.Update(load);
+            _dbContext.Update(load);
             await _dbContext.SaveChangesAsync();
         }
     }
