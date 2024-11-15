@@ -7,6 +7,7 @@
         public string Surname { get; set; }
         public string Second_Name { get; set; }
         public int? Cafedra_ID { get; set; }
+
         public Cafedra Cafedra { get; set; }
         public int? Position_ID { get; set; }
         public Position Position { get; set; }
